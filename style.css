@@ -3,3 +3,36 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+header,
+footer,
+section {
+    padding: 5%;
+    border: 1px solid lightgray;
+}
+
+.padded-1{ padding: 1rem;}
+
+
+
+.intro{
+    text-transform: uppercase;
+    background-color: lightgray;
+}
+
+
+
+/* bg image styles */
+
+.bg-image{
+    background-position: center;
+    background-size: cover;
+}
+
+.square{
+    padding-bottom: 100%;
+}
+
+.landscape{
+    padding-bottom: 60%;
+}

@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: post
 title: My first post
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+author: mike
 categories: [ travel, bali ]
+featured_image: https://instituteofcode.com/houdini.jpg
 ---
 
 ## Adventures in Bali

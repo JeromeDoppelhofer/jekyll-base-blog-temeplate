@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: post
 title: My third post
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-categories: [ travel, bali ]
+author: meli
+categories: [ selfcare, bali ]
+featured_image: https://instituteofcode.com/houdini.jpg
 ---
 
 ## Adventures in Bali

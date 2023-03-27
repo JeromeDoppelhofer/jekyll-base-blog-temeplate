@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: post
 title: My second post
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-categories: [ travel, bali ]
+author: jerome
+categories: [ Australia, travel ]
+featured_image: https://instituteofcode.com/nala.jpg
 ---
 
-## Adventures in Bali
+## Adventures in Australia
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
 
